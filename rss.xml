@@ -4,17 +4,25 @@
         <description><![CDATA[Eric's Life in Japan]]></description>
         <link>https://thegrid.ai/lifeinjapan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 10:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 13:53:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lifeinjapan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I need to create a better routine. I am thinking along the lines of something like:</p>]]></description>
+            <link>https://thegrid.ai/lifeinjapan/b8038655-b93e-4189-9c8d-e627a18b419a/index.html</link>
+            <guid isPermaLink="false">b8038655-b93e-4189-9c8d-e627a18b419a</guid>
+            <pubDate>Sun, 24 Jan 2016 13:52:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am still confused how this entire, The Grid, thing works. It is kind of counter intuitive in some situations, but I am sure I will get the hang of it. </p>]]></description>
             <link>https://thegrid.ai/lifeinjapan/8cf6f2e5-aef9-4323-8a7f-f02feee71f3f/index.html</link>
             <guid isPermaLink="false">8cf6f2e5-aef9-4323-8a7f-f02feee71f3f</guid>
             <pubDate>Thu, 14 Jan 2016 10:04:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Intro]]></title>
-            <description><![CDATA[<article><h1>The Intro</h1><p>Background info thus far</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72fd43c27b2e652a7a8a49515bbe3b4a5df334ee.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Intro</h1><p>Hello, so I am having a hard time understanding this Grid thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5242a6cbc4c3a3ec50a26785c1bd9c4c9338cf5.jpg"></article>]]></description>
             <link>https://thegrid.ai/lifeinjapan/7819c6cb-f642-4886-a3ca-a181926ba353/index.html</link>
             <guid isPermaLink="false">7819c6cb-f642-4886-a3ca-a181926ba353</guid>
             <pubDate>Thu, 14 Jan 2016 10:03:16 GMT</pubDate>
